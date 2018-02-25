@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://tpyl.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://tpyl.github.io/" rel="alternate" type="text/html" /><updated>2018-02-25T15:49:53-08:00</updated><id>http://tpyl.github.io/</id><title type="html">Random Projects and Musings</title><subtitle>Random project updates, and maybe sometimes some philosophical thoughts. 
+</subtitle><entry><title type="html">Snap To Neighbors Gnome Shell Extension</title><link href="http://tpyl.github.io/projects/update/2018/02/25/snap-to-neighbors.html" rel="alternate" type="text/html" title="Snap To Neighbors Gnome Shell Extension" /><published>2018-02-25T09:36:53-08:00</published><updated>2018-02-25T09:36:53-08:00</updated><id>http://tpyl.github.io/projects/update/2018/02/25/snap-to-neighbors</id><content type="html" xml:base="http://tpyl.github.io/projects/update/2018/02/25/snap-to-neighbors.html">&lt;p&gt;It feels like I’m going back in time to 2003 or so, when I worked a little bit
+with Tuomo Valkonen on pwm, a predecessor to the somewhat famous window manager
+ion. That’s the last time I had any inclination to put any time or effort into 
+fine tuning my UI experience.&lt;/p&gt;
+
+&lt;p&gt;In the mean time I have been content with out-of-the box experience on KDE or
+Gnome. Briefly, I tried going back to my childhood favorite, fvwm, but it didn’t
+really live up to the nostalgia.&lt;/p&gt;
+
+&lt;p&gt;Now, I’m finding myself lost in windows on a pretty regular basis. The wonderful
+&lt;a href=&quot;https://extensions.gnome.org/extension/97/coverflow-alt-tab/&quot;&gt;coverflow&lt;/a&gt; shell extension makes it at least easy to find the windows, but 
+it’s still very hard to keep your desktop organized.&lt;/p&gt;
+
+&lt;p&gt;So, introducing &lt;a href=&quot;https://github.com/tpyl/gssnaptoneighbors&quot;&gt;snap-to-neighbors&lt;/a&gt; shell extension. It offers a keyboard shortcut
+to resize and move currently active window to exactly fit to the space available 
+around the top left corner of the window.&lt;/p&gt;</content><author><name></name></author><summary type="html">It feels like I’m going back in time to 2003 or so, when I worked a little bit with Tuomo Valkonen on pwm, a predecessor to the somewhat famous window manager ion. That’s the last time I had any inclination to put any time or effort into fine tuning my UI experience.</summary></entry></feed>
